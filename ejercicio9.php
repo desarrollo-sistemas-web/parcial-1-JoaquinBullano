@@ -4,5 +4,5 @@
 //Complejidad: BAJA (1 punto)
 
 function generarTablaMultiplicar($num) {
-    // Tu código aquí
+    kh;
 }

@@ -6,5 +6,8 @@
 //🔍 Hint: Puedes usar un bucle para iterar sobre el arreglo y sumar los elementos.
 
 function suma($numeros) {
-    // Tu código aquí
+while ($numeros) {
+    echo "
+}
+    
 }
