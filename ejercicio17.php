@@ -7,4 +7,6 @@
 
 function calcularPromedio($numeros) {
     // Tu código aquí
+
+
 }
